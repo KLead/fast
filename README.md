@@ -1,2 +1,3 @@
-# fast
-base fast.io 
+## about
+
+base the fast.io, a good cnd.
